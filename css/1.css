@@ -1,0 +1,31 @@
+.profile{ /* 클래스라고 부름*/
+    width: 200px; 
+    display:block;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+.head3{
+    font-size: 20px; 
+    color: black; 
+    text-align: center;
+}
+
+
+#special{ /*특정 id생성*/
+    text-align:center;
+    color:blue;
+}
+
+.content{
+    color:red;
+}
+
+p{ /*모든 p태그에 대해*/
+    text-align:center;
+    color:green;
+}
+
+/* css 속성을 만들어주는 방법 1. 클래스 2. 모든 태그 3. id생성*/
+
+/* 스타일이 겹칠 때 우선순위 style > id > class > tag */
