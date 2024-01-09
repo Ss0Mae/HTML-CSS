@@ -28,3 +28,9 @@
     background-color: gray;
     clear:both; /* float 다음에 오는 요소에게 주면 현상 해결가능 */
 }
+
+.title{
+    font-size:50px;
+    float:left;
+
+}
